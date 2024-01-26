@@ -16,6 +16,7 @@ public class variables
         System.out.println(l);
         System.out.println(voteingAge);
         System.out.println(c);
+        System.out.println(i);
 
     }
 }
