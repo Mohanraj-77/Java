@@ -17,6 +17,13 @@ public class variables
         System.out.println(voteingAge);
         System.out.println(c);
         System.out.println(i);
+        System.out.println(l);
+        System.out.println(name);
+        System.out.println(isValid);
+        System.out.println(b);
+        System.out.println(s);
+        System.out.println(a);
+        System.out.println(d);
 
     }
 }
